@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Car Loan Calculator</string>
+    <string name="CarPrice">Car Price(MYR) :</string>
+    <string name="YourCarPrice">Your Car Price</string>
+    <string name="downPayment">Down Payment(MYR) :</string>
+    <string name="paymentAmountPlz">Amount</string>
+    <string name="loanPeriod">Loan Period(Years) :</string>
+    <string name="yourLoan">Your Loan Period</string>
+    <string name="interestRate">Rate of Interest (%) :</string>
+    <string name="carInterest">Car Rate</string>
+    <string name="calculate">Calculate</string>
+    <string name="carLoan">Car Loan :</string>
+    <string name="interest">Interest :</string>
+    <string name="monthlyRepay">Monthly Repayment :</string>
+    <string name="result">Result :</string>
+</resources>
